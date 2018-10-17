@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SenssunHealth</string>
+    <string name="ble_not_supported">不支持led</string>
+</resources>
